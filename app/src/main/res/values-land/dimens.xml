@@ -1,0 +1,3 @@
+<resources>
+    <item name="chart_divide" format="float" type="dimen">0.2</item>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">PointsChart</string>
+
+    <string name="input_fragment_label">Input form</string>
+    <string name="chart_fragment_label">Table and chart</string>
+
+    <string name="next">Go</string>
+    <string name="previous">Back</string>
+    <string name="some_header_text">Information block</string>
+    <string name="number_input_hint">Points count to request</string>
+
+    <!-- Input errors -->
+    <string name="input_error_wrong_format">Wrong format</string>
+    <string name="input_error_too_low">Too low count</string>
+    <string name="input_error_too_high">Too high count</string>
+    <string name="input_error_empty">Enter something first</string>
+    <string name="server_error">Server error, try later</string>
+</resources>

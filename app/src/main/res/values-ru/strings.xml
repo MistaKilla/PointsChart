@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_fragment_label">Форма ввода</string>
+    <string name="chart_fragment_label">Таблица и график</string>
+
+    <string name="next">Поехали</string>
+    <string name="previous">Назад</string>
+    <string name="some_header_text">Блок информационного текста</string>
+    <string name="number_input_hint">Сколько точек запросить</string>
+
+    <!-- Input errors -->
+    <string name="input_error_wrong_format">Неверный формат</string>
+    <string name="input_error_too_low">Слишком мало точек</string>
+    <string name="input_error_too_high">Слишком много точек</string>
+    <string name="input_error_empty">Вееди хоть что-нибудь</string>
+    <string name="server_error">Сервер устал, попробуй позже</string>
+</resources>
